@@ -1,0 +1,6 @@
+PyAutoGUI=0.9.53
+opencv-python=4.5.1.48
+numpy=1.19.5
+matplotlib=3.4.1
+cmake=3.18.2
+dlib=19.21.0
