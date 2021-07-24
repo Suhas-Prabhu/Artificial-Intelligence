@@ -3,6 +3,7 @@ Repository includes all the projects completed by me for self-learning and hobby
 ***
 # Computer Vision Projects
 <br>
+
 | Topic                                                    | Description                                                                                         | Code          |
 | -------------                                            |:-------------:                                                                                      | -----:        |
 | [**T-rex Game with Facial Gestures**](https://github.com/Suhas-Prabhu/Artificial-Intelligence/tree/master/Computer%20Vision%20projects/T_Rex_Game_Facial_Gestures) | Use opencv to play the offline T-rex game using your face Expression as controls  |[link](https://github.com/Suhas-Prabhu/Artificial-Intelligence/blob/master/Computer%20Vision%20projects/T_Rex_Game_Facial_Gestures/T-Rex%20game.ipynb)|
