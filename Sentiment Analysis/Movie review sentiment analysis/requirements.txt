@@ -1,0 +1,5 @@
+nltk=3.6.2
+numpy=1.19.5
+regex=2021.7.6
+pandas=1.1.5
+sklearn  
