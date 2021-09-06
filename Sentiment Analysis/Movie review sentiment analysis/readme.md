@@ -33,3 +33,5 @@ STEPS TO CLEAN THE REVIEWS :
 
 The review classification GUI looks as follows
 
+<img src="https://github.com/Suhas-Prabhu/Artificial-Intelligence/blob/master/Sentiment%20Analysis/Movie%20review%20sentiment%20analysis/model/image1.jpg" width="32%" height="70%" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Suhas-Prabhu/Artificial-Intelligence/blob/master/Sentiment%20Analysis/Movie%20review%20sentiment%20analysis/model/image2.jpg" width="32%" height="70%" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Suhas-Prabhu/Artificial-Intelligence/blob/master/Sentiment%20Analysis/Movie%20review%20sentiment%20analysis/model/image3.jpg" width="32%" height="70%" />
+
