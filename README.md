@@ -10,6 +10,7 @@ Repository includes all the projects completed by me for self-learning and hobby
 | [**Alpha Blending**](https://github.com/Suhas-Prabhu/Artificial-Intelligence/tree/master/Computer%20Vision%20projects/Alpha-bending) | Overlay a transperant image on a background image by blending the &alpha; channel  |[link](https://github.com/Suhas-Prabhu/Artificial-Intelligence/blob/master/Computer%20Vision%20projects/Alpha-bending/main.py)|
 | [**Augmented Reality With Opencv**](https://github.com/Suhas-Prabhu/Artificial-Intelligence/tree/master/Computer%20Vision%20projects/Augmented%20reality%20with%20opencv) | Wrap images and videos in readl world using OpenCV  |[link](https://github.com/Suhas-Prabhu/Artificial-Intelligence/blob/master/Computer%20Vision%20projects/Augmented%20reality%20with%20opencv/aruco_detector.py)|
 | [**Image cartoonify**](https://github.com/Suhas-Prabhu/Artificial-Intelligence/tree/master/Computer%20Vision%20projects/cartooning) | Convert a real world image to a cortoon-ish image using OpencCV |[link](https://github.com/Suhas-Prabhu/Artificial-Intelligence/blob/master/Computer%20Vision%20projects/cartooning/main.py)|
+| [**Handwriting recognizer**](https://github.com/Suhas-Prabhu/Artificial-Intelligence/tree/master/Computer%20Vision%20projects/digit%20recognizer) | Use MNIST dataset to train a model and create a GUI to recognize digits |[link](https://github.com/Suhas-Prabhu/Artificial-Intelligence/blob/master/Computer%20Vision%20projects/digit%20recognizer/main.py)|
 
 
 # Time series Projects
