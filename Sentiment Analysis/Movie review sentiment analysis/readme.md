@@ -1,4 +1,4 @@
-# Movie Review classification <img src="http://assets.stickpng.com/images/5f47fabc554fc70004db57a7.png" width="5%" height="5%" />
+# Movie Review classification <img src="https://graciesprov.com/wp-content/uploads/2017/12/five-stars4.png" width="5%" height="5%" />
 
 
 ## setup
